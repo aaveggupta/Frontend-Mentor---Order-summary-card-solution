@@ -27,7 +27,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [LINK](https://aaveggupta.github.io/Frontend-Mentor---Order-summary-card-solution/)
 
 ## My process
